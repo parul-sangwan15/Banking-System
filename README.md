@@ -1,4 +1,6 @@
 # Banking-System
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NuYndvYndhdXJ2cHN5OGhva2JvMXVyYXViZnFxbmUzOTNxMHpuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsXrHsEKbSjKPeg/giphy.gif" height="200">
 A simple console-based banking system in C++. It uses classes to model bank accounts and a bank, and it provides basic operations such as opening an account, checking the balance, depositing and withdrawing money, closing an account, and displaying all accounts.
 Here's a brief overview of the code structure:
 
